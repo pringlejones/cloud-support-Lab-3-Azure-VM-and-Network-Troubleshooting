@@ -18,5 +18,5 @@ Issued a clean system reboot cycle instruction (`reboot`) out of the maintenance
 
 ### 🖼️ Diagnostic Evidence
 **Figure 12.1: Azure Boot Diagnostics Log Window Identifying Root Boot Initialization Failures**
-![Azure Boot Diagnostics Telemetry Log]<img width="1440" height="900" alt="case3-azure-boot-fault" src="https://github.com/user-attachments/assets/ae0ea9ca-d15e-4a53-8954-3fb536ec5643" />
+![Azure Boot Diagnostics Telemetry Log]<img width="1440" height="859" alt="case3-azure-boot-fault" src="https://github.com/user-attachments/assets/9fa8e34f-6b32-42e6-9e45-fa6b65547d84" />
 
